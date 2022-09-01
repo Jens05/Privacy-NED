@@ -11,7 +11,7 @@ De termen die in dit privacybeleid worden gebruikt, hebben dezelfde betekenis al
 Voor een betere ervaring tijdens het gebruik van onze Service, kunnen we van u verlangen dat u ons bepaalde persoonlijk identificeerbare informatie verstrekt, inclusief maar niet beperkt tot gebruikersnaam, e-mailadres, geslacht, locatie, foto's. De informatie die we vragen, wordt door ons bewaard en gebruikt zoals beschreven in dit privacybeleid.
 De app maakt gebruik van diensten van derden die informatie kunnen verzamelen die wordt gebruikt om u te identificeren.
 
-### Coockies
+### Cookies
 Cookies zijn bestanden met een kleine hoeveelheid gegevens die vaak worden gebruikt als een anonieme unieke identifier. Deze worden vanaf de website die u bezoekt naar uw browser gestuurd en opgeslagen in het interne geheugen van uw apparaten.
 
 Deze Diensten maken niet expliciet gebruik van deze "cookies". De app kan echter code van derden en bibliotheken gebruiken die "cookies" gebruiken om informatie te verzamelen en hun diensten te verbeteren. U hebt de mogelijkheid om deze cookies te accepteren of te weigeren en te weten wanneer er een cookie naar uw apparaat wordt verzonden. Als u ervoor kiest om onze cookies te weigeren, is het mogelijk dat u sommige delen van deze Service niet kunt gebruiken.
